@@ -13,6 +13,7 @@ venv/
 data/
 *.csv
 *.h5
+alfs_data/
 
 # OS
 .DS_Store
@@ -21,3 +22,5 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+.devcontainer/
+
